@@ -1,7 +1,7 @@
 # Hi there I’m Isabel Castrillón 👋
 
 # 💫 About Me:
-I'm a final year undergraduate student in biomedical engineering at Universidad CES, Colombia. Currently, I'm working as a Jr. Data Scientist at guane Enterprises SAS, specializing in predictive analytics.
+I'm a final year undergraduate student in biomedical engineering at Universidad CES, Colombia. 
 
 My main focus right now is diving deeper into machine learning, mathematical optimization, and operations research. Additionally, I also have experience and enjoy both front- and back-end development. I'm passionate about leveraging these fields to create solutions that have a positive impact on society on human and animal health. 💖🐾
 
